@@ -1,6 +1,10 @@
 # Toolkit Jop App
 
-# Redux Thunk, Debounce, Toolkit ile geliştirilmiş bir iş arama platformudur
+# İşlemler 
+
+- Redux Thunk
+- Debounce
+- Toolkit
 
 ## Kütüphaneler
 
