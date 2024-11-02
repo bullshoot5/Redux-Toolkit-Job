@@ -17,4 +17,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# Redux-Toolkit-Job-App
